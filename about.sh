@@ -14,7 +14,12 @@ Make sure to add PATH=\$PATH:/(Script path) to be able to run it from any where
 
 
 Created By: 
-Abdelrhman Amen & Mariam Gad
+Abdelrhman Amen
+Maryam Gad
+Mohamed Abdo
+Mohamed Alaa
+Mohamed Salah
+
 
 "
 
