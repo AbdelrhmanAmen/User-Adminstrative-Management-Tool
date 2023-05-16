@@ -11,7 +11,7 @@
             if [ $? -eq 0 ]; then
                 whiptail --title "Error" --msgbox "Duplicate username, try again." 8 78
             else
-                source adduser $username
+                adduser $username
                 whiptail --title "Success" --msgbox "User added successfully" 8 78
                 source menu.sh;exit
             fi
